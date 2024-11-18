@@ -1,6 +1,6 @@
 - 👋 Olá, sou @Robert-Sa
-- 👀 Estou interessado em aprimorar sistemas de gestão integrados (SGI), automação de processos e aprofundar conhecimentos em Python.
-- 🌱 Atualmente estou aprendendo sobre Analytics, BI e desenvolvendo habilidades em Qlik Sense para análise de dados e visualização.
+- 👀 Estou interessado em aprimorar sistemas de gestão integrados (SGI), automação de processos e criar soluções inovadoras e inteligentes de automção de dados.
+- 🌱 Atualmente estou aprendendo sobre Ciencia de Dados.
 - 💞️ Estou procurando colaborar em projetos que envolvem melhoria de processos, integração de dados e automação.
 - 📫 Como entrar em contato comigo: [LinkedIn](http://www.linkedin.com/in/robert-alves-analista) | Email: robertalvesdossantos@outlook.com
 - 😄 Pronomes: Ele/Dele
