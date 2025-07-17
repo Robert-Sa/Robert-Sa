@@ -1,6 +1,6 @@
 # 👋 Olá, sou Robert Alves dos Santos!
 
-🎯 **Analista de Dados | Especialista em Projetos | Melhoria Contínua**  
+🎯 **Especialista em Logistica e Projetos de Melhoria Contínua**  
 Apaixonado por transformar dados em insights estratégicos, automatizar processos e liderar projetos que geram impacto real. 
 Com ampla experiência em ferramentas como **Power BI, SQL, Python e SAP**, minha atuação é guiada por inovação, eficiência e busca por resultados.
 
