@@ -7,7 +7,7 @@ Com ampla experiência em ferramentas como **Power BI, SQL, Python e SAP**, minh
 ---
 
 ## 🚀 **Sobre Mim**
-- 🔍 Especialista em análise de dados e automação de processos.  
+- 🔍 Especialista em análise de dados e automação de processos, com foco em custos e logística.  
 - 🛠️ Experiência em projetos de **CAPEX e OPEX**, com entregas dentro do prazo e orçamento.  
 - 📊 Desenvolvimento de dashboards dinâmicos em **Power BI** para monitoramento em tempo real de indicadores estratégicos.  
 - 🤖 Criação de scripts e automações usando **Python, VBA, SQL e SAP HANA**.  
